@@ -6,7 +6,7 @@
         <extension point="xbmc.addon.repository" name="MBMan Repo">
             <info compressed="false">https://github.com/MBManTech/repo/blob/master/addons.xml</info>
             <checksum>https://github.com/MBManTech/repo/blob/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/MBManTech/repo</datadir>
+            <datadir zip="true">https://github.com/MBManTech/repo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">

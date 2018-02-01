@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="repository.MBManTech" name="MBMan Repo" version="0.1.1" provider-name="MBManTech">
+    <addon id="repository.MBManTech" name="MBMan Repo" version="0.1.2" provider-name="MBManTech">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>

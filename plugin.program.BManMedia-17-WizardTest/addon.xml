@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.BManMedia-17-WizardTest" name="BMan Media 17 Wizard Test" version="0.1.8a" provider-name="MBMan">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">BMan Media 17 Wizard Test</summary>
+    <description lang="en">BMan Media 17 Wizard allows you to get access to the latest MBMan Custom Builds for Krypton 17 and Full Maintenance for you Media Center.
+[CR]This Wizard was Created using Aftermath Wizard
+[CR] All credit for Coding of this Wizard goes to Aftermath, Surfacingx and all other Devs involved in this Project.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

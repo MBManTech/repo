@@ -16,7 +16,6 @@
             <platform>all</platform>
         </extension>
     </addon>
-	
 	<addon id="plugin.program.BManMedia-17-WizardTest" name="BMan Media 17 Wizard Test" version="0.1.8a" provider-name="MBMan">
         <requires>
             <import addon="xbmc.python" version="2.1.0"/>
